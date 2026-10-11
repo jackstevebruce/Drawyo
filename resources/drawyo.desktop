@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Drawyo
+GenericName=Screen Annotation Tool
+Comment=Lightweight screen drawing overlay with tablet pressure sensitivity
+Exec=drawyo
+Icon=drawyo
+Terminal=false
+Type=Application
+Categories=Utility;Graphics;
+Keywords=screen;draw;pen;annotation;epicpen;markup;
+StartupNotify=true
